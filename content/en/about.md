@@ -10,5 +10,5 @@ params:
 Biggest thanks to [Teruko Neriki](https://x.com/terukoneriki) for brining the program to life and for running
 the pilot program in Japan.
 
-The current program was made possible by support from the [**Human Rights Foundation**](https://hrf.org/devfund).
+The current program was made possible by the support from the [**Human Rights Foundation**](https://hrf.org/devfund).
 ![Alt text](/images/2560px-Human_Rights_Foundation_logo.svg.png)
